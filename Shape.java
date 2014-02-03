@@ -3,11 +3,7 @@ import java.awt.*;
 /**
  * Shape.java
  * Abstract class for geometric shapes.
- * Provides three non-abstract methods: setColor, draw, and setCenter.
- * 
- * Written by THC for CS 5 Lab Assignment 3.
- *
- * @author Thomas H. Cormen
+ * @author Naho Kitade
  */
 public abstract class Shape {
   protected Color color; // Shape's color

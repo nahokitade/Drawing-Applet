@@ -3,10 +3,7 @@ import java.awt.*;
 /**
  * ExchangeCmd.java
  * Command class to perform an exchange command.
- * 
- * Written by THC for CS 5 Lab Assignment 3.
- * @author Thomas H. Cormen
- * @see Command
+ * @author Naho Kitade
  */
 public class ExchangeCmd extends Command {
   private Shape firstShape; // the first Shape clicked

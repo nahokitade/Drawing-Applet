@@ -3,12 +3,9 @@
  * An applet for an object-oriented graphical editor.
  * This class implements the GUI for the editor.
  * 
- * This is a provided file with parts to be filled in.
- *
- * Written by THC for CS 5 Lab Assignment 3.
- *
+ * Scaffold was provided by:
  * @author Thomas H. Cormen
- * @author Naho Kitade
+ * @author Completed by Naho Kitade
  */
 import java.awt.*;
 import java.awt.event.*;
